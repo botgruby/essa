@@ -1,4 +1,5 @@
 const Discord = require('discord.js');
+const token = process.env.arcadia
 const {
 	prefix,
 	token,
